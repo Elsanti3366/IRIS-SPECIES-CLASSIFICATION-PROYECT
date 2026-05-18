@@ -28,7 +28,7 @@ streamlit run Proyect.py
 ```
 
 ## Team Members
-- Santiago Orozco — Group [X]
+- Santiago Orozco 
 
 ## Course
 Universidad de la Costa · Data Mining · José Escorcia-Gutiérrez, Ph.D. · 2026
